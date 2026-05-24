@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neta08-svg.github.io/plumber-lead-booster-live/sitemap.xml
